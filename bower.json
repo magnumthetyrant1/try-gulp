@@ -1,0 +1,8 @@
+{
+    "name": "try-gulp",
+    "dependencies": {
+      "jQuery": "latest",
+      "bootstrap":"latest"
+    },
+    "devDependencies": {}
+}
